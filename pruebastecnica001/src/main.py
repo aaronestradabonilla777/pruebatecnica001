@@ -39,3 +39,4 @@ print(metodDif([ 1, 8 ]))  #True
 
 print(metodDif([ -2.3, -1.1, 0.1, 1.3, 2.5, 3.7 ]))  # False
 
+#PRueba
