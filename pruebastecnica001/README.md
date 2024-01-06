@@ -1,38 +1,14 @@
-# Mi Proyecto Python
+# PRUEBA TECNICA 1
 
-Este es un proyecto de ejemplo en Python.
+Escribe una función o método que detecte si en un arreglo un número se repite, al menos, cierta cantidad de veces. La función debe recibir el arreglo, el número que se quiere detectar y la cantidad de veces mínimas que debe aparecer.
 
-## Instalación
 
-Para instalar las dependencias de este proyecto, ejecute el siguiente comando:
+## PRUEBA TECNICA 
 
-```
-pip install -r requirements.txt
-```
+Realiza una función o método que reciba un arreglo y regresa la mayor diferencia entre cualquier par de números, independientemente de su posición. en python
 
-## Uso
 
-Para ejecutar este proyecto, navegue hasta el directorio `src` y ejecute el archivo `main.py` con Python:
 
-```
-cd src
-python main.py
-```
+## PRUEBA TECNICA 3
 
-## Pruebas
-
-Para ejecutar las pruebas de este proyecto, navegue hasta el directorio `tests` y ejecute los archivos de prueba con Python:
-
-```
-cd tests
-python test_module1.py
-python test_module2.py
-```
-
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, haga un fork del proyecto y cree una Pull Request con sus cambios.
-
-## Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
+Realiza una función o método que reciba un arreglo de números y detecte si todos los números en posición consecutiva están separados por la misma magnitud.
