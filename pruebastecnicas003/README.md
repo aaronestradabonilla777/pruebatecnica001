@@ -1,5 +1,5 @@
 # Reto #1: EL "LENGUAJE HACKER"
-#### Dificultad: Fácil | Publicación: 02/01/23 | Corrección: 09/01/23
+#### Dificultad: Fácil | Publicación: 02/01/23 | Corrección: 06/01/24
 
 ## Enunciado
 
