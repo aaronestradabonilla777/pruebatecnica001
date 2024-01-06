@@ -1,31 +1,15 @@
-# Mi Proyecto Python
+# Reto #0: EL FAMOSO "FIZZ BUZZ"
+#### Dificultad: Fácil | Publicación: 26/12/22 | Corrección: 02/01/23
 
-Este es un proyecto de ejemplo en Python.
-
-## Instalación
-
-Para instalar las dependencias del proyecto, ejecute el siguiente comando:
+## Enunciado
 
 ```
-pip install -r requirements.txt
+/*
+ * Escribe un programa que muestre por consola (con un print) los
+ * números de 1 a 100 (ambos incluidos y con un salto de línea entre
+ * cada impresión), sustituyendo los siguientes:
+ * - Múltiplos de 3 por la palabra "fizz".
+ * - Múltiplos de 5 por la palabra "buzz".
+ * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+ */
 ```
-
-## Uso
-
-Para ejecutar el proyecto, navegue hasta el directorio `src` y ejecute el archivo `main.py`:
-
-```
-python main.py
-```
-
-## Pruebas
-
-Para ejecutar las pruebas, navegue hasta el directorio `src/tests` y ejecute los archivos de prueba.
-
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, haga un fork del proyecto y cree una Pull Request con sus cambios.
-
-## Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
