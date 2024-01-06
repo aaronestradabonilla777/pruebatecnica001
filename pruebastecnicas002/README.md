@@ -1,5 +1,5 @@
 # Reto #0: EL FAMOSO "FIZZ BUZZ"
-#### Dificultad: Fácil | Publicación: 26/12/22 | Corrección: 02/01/23
+#### Dificultad: Fácil | Publicación: 26/12/22 | Corrección: 06/01/24
 
 ## Enunciado
 
