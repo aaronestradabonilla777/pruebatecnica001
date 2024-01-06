@@ -1,31 +1,15 @@
-# Mi Proyecto Python
+# Reto #1: EL "LENGUAJE HACKER"
+#### Dificultad: Fácil | Publicación: 02/01/23 | Corrección: 09/01/23
 
-Este es un proyecto de ejemplo en Python.
-
-## Instalación
-
-Para instalar las dependencias del proyecto, ejecute el siguiente comando:
+## Enunciado
 
 ```
-pip install -r requirements.txt
+/*
+ * Escribe un programa que reciba un texto y transforme lenguaje natural a
+ * "lenguaje hacker" (conocido realmente como "leet" o "1337"). Este lenguaje
+ *  se caracteriza por sustituir caracteres alfanuméricos.
+ * - Utiliza esta tabla (https://www.gamehouse.com/blog/leet-speak-cheat-sheet/) 
+ *   con el alfabeto y los números en "leet".
+ *   (Usa la primera opción de cada transformación. Por ejemplo "4" para la "a")
+ */
 ```
-
-## Uso
-
-Para ejecutar el proyecto, navegue hasta el directorio `src` y ejecute el archivo `main.py` con Python:
-
-```
-python main.py
-```
-
-## Pruebas
-
-Para ejecutar las pruebas, navegue hasta el directorio `src/tests` y ejecute los archivos de prueba con Python.
-
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, abra un problema o haga un pull request con sus cambios.
-
-## Licencia
-
-Este proyecto está licenciado bajo los términos de la licencia MIT.
