@@ -5,7 +5,7 @@ Escribe una función o método que detecte si en un arreglo un número se repite
 
 ## PRUEBA TECNICA 
 
-Realiza una función o método que reciba un arreglo y regresa la mayor diferencia entre cualquier par de números, independientemente de su posición. en python
+Realiza una función o método que reciba un arreglo y regresa la mayor diferencia entre cualquier par de números, independientemente de su posición.
 
 
 
